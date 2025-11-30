@@ -1,0 +1,27 @@
+.section__image.filter-two {
+  filter: grayscale(80%);
+}
+
+.section__image.filter-three {
+  filter: saturate(400%);
+}
+
+.section__image.filter-four {
+  filter: hue-rotate(25deg);
+}
+
+.section__image.filter-five {
+  filter: invert(100%);
+}
+
+.section__image.filter-six {
+  filter: sepia(80%);
+}
+
+.section__image.filter-seven {
+  filter: blur(20px)
+}
+
+.section__image.filter-eight {
+  filter: blur(3px) hue-rotate(70deg) sepia(50%);
+}
